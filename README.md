@@ -37,12 +37,12 @@ Aplicación móvil desarrollada en Android que permite gestionar tareas de maner
 - Kotlin 1.9.0 o superior
 - Gradle 8.0 o superior
 
-### Instalacion
+## Instalacion
 - Abrir Android studio
 - Seleccionar "Get from VCS" (Obtener desde Control de Versiones)
 - En la pantalla de bienvenida, haz clic en "Get from Version Control"
 - O si se tiene un proyecto abierto, ir a File > New > Project from Version Control
-- Ingresar la URL del repositorio
+- Ingresar la URL del repositorio: https://github.com/Juan152003/Primer-Parcial-Programacion-Movil.git 
 - Elegir el directorio donde se guardará localmente
 - Haz clic en "Clone"
 - Esperar a que se sincronice
