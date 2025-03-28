@@ -37,10 +37,21 @@ Aplicación móvil desarrollada en Android que permite gestionar tareas de maner
 - Kotlin 1.9.0 o superior
 - Gradle 8.0 o superior
 
+### Instalacion
+- Abrir Android studio
+- Seleccionar "Get from VCS" (Obtener desde Control de Versiones)
+- En la pantalla de bienvenida, haz clic en "Get from Version Control"
+- O si se tiene un proyecto abierto, ir a File > New > Project from Version Control
+- Ingresar la URL del repositorio
+- Elegir el directorio donde se guardará localmente
+- Haz clic en "Clone"
+- Esperar a que se sincronice
+- Arrancar el proyecto ya sea en emulador o en un dispositivo fisico mediante USB
+
 ## Autor
 Juan David Abaunza
 
-## Pantallazos
+### Pantallazos
 
 ![Imagen de WhatsApp 2025-03-27 a las 20 18 05_a6b661e2](https://github.com/user-attachments/assets/adda8f37-bf56-47bc-9900-49dbe6ee5466)
 
