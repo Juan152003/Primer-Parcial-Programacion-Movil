@@ -40,7 +40,7 @@ Aplicación móvil desarrollada en Android que permite gestionar tareas de maner
 ## Autor
 Juan David Abaunza
 
-##Pantallazos
+## Pantallazos
 
 ![Imagen de WhatsApp 2025-03-27 a las 20 18 05_a6b661e2](https://github.com/user-attachments/assets/adda8f37-bf56-47bc-9900-49dbe6ee5466)
 
